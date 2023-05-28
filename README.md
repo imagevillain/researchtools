@@ -1,4 +1,4 @@
-# blockchain
+# blockchain explorers
 
 <a href="https://etherscan.io">etherscan</a>
 
@@ -10,6 +10,8 @@
 
 # solidity / contracts
 
+openzepplin book
+
 tenderley
 
 tokensniffer
@@ -17,8 +19,4 @@ tokensniffer
 # wallet tracking
 
 breadcrumbs
-
-metadock
-
-metasleuth
 
