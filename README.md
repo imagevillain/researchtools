@@ -1,4 +1,2 @@
 # tools
-research tools
-
-breadcrumbs
+https://etherscan.io
