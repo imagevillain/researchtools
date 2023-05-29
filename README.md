@@ -8,7 +8,7 @@
 
 <a href="https://tenderly.co">tenderley</a>
 
-# solidity / contracts
+# contracts / solidity
 
 openzepplin book
 
