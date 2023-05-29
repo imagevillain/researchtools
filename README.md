@@ -1,4 +1,4 @@
-# explorers and transactions
+# explorers / transactions
 
 <a href="https://etherscan.io">etherscan</a>
 
