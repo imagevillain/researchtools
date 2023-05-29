@@ -1,4 +1,4 @@
-# blockchain explorers
+# explorers and transactions
 
 <a href="https://etherscan.io">etherscan</a>
 
