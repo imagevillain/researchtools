@@ -10,11 +10,13 @@
 
 # contracts / solidity
 
-openzepplin book
+<a href="https://tenderly.co">tenderley</a>
 
-tenderley
+<a href="https://tokensniffer.com">tenderley</a>
 
-tokensniffer
+<a href="https://docs.openzeppelin.com/contracts">openzeppelin docs</a>
+
+https://docs.openzeppelin.com/contracts
 
 # wallet tracking
 
