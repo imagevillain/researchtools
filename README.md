@@ -6,7 +6,7 @@
 
 <a href="https://etherscan.io">phalcon</a>
 
-<a href="https://etherscan.io">opensource</a>
+<a href="https://openchain.xyz">openchain</a>
 
 # solidity / contracts
 
