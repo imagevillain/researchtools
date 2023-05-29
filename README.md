@@ -2,6 +2,8 @@
 
 <a href="https://etherscan.io">etherscan</a>
 
+<a href="https://chrome.google.com/webstore/detail/metadock/fkhgpeojcbhimodmppkbbliepkpcgcoo">metadock extension</a>
+
 <a href="https://phalcon.xyz">phalcon</a>
 
 <a href="https://openchain.xyz">openchain</a>
