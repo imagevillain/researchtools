@@ -10,6 +10,8 @@
 
 <a href="https://tenderly.co">tenderley</a>
 
+https://www.nansen.ai/
+
 # contracts / solidity
 
 <a href="https://docs.openzeppelin.com/contracts">openzeppelin docs</a>
