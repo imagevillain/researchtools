@@ -8,7 +8,7 @@
 
 <a href="https://openchain.xyz">openchain</a>
 
-<a href="https://tenderly.co">tenderley</a>
+https://tenderly.co
 
 https://zerion.io
 
