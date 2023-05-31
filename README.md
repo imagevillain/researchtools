@@ -10,6 +10,8 @@
 
 <a href="https://tenderly.co">tenderley</a>
 
+https://zerion.io
+
 https://www.nansen.ai/
 
 # contracts / solidity
