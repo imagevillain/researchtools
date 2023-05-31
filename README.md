@@ -16,21 +16,18 @@
 
 # contracts / solidity
 
-<a href="https://docs.openzeppelin.com/contracts">openzeppelin docs</a>
+[openzeppelin](https://docs.openzeppelin.com/contracts)
 
-[<a href="https://docs.openzeppelin.com/contracts">openzeppelin docs</a>](https://remix.ethereum.org)
+[remix](https://remix.ethereum.org)
 
-<a href="https://tenderly.co">tenderley</a>
+[tenderly](https://tenderly.co)
 
-<a href="https://tokensniffer.com">tokensniffer</a>
-
-<a href="https://docs.openzeppelin.com/contracts">openzeppelin docs</a>
-
+[tokensniffer](https://tokensniffer.com)
 
 # wallet tracking
 
 [breadcrumbs](https://www.breadcrumbs.app)
 
-https://metasleuth.io
+[metasleuth](https://metasleuth.io)
 
-https://watchers.pro/main
+[watchers pro](https://watchers.pro)
