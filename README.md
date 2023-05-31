@@ -30,4 +30,4 @@
 
 [metasleuth](https://metasleuth.io)
 
-[watchers pro](https://watchers.pro)
+[watchers](https://watchers.pro)
