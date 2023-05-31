@@ -22,6 +22,8 @@
 
 [tenderly](https://tenderly.co)
 
+[gopluslabs](https://gopluslabs.io/token-security)
+
 [tokensniffer](https://tokensniffer.com)
 
 # wallet tracking
