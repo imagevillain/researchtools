@@ -1,18 +1,18 @@
 # explorers / transactions
 
-[etherscan] (https://etherscan.io)
+[etherscan](https://etherscan.io)
 
-[metadock extension] (https://chrome.google.com/webstore/detail/metadock/fkhgpeojcbhimodmppkbbliepkpcgcoo)
+[metadock extension](https://chrome.google.com/webstore/detail/metadock/fkhgpeojcbhimodmppkbbliepkpcgcoo)
 
-[phalcon] (https://phalcon.xyz)
+[phalcon](https://phalcon.xyz)
 
-[openchain] (https://openchain.xyz)
+[openchain](https://openchain.xyz)
 
-[tenderly] (https://tenderly.co)
+[tenderly](https://tenderly.co)
 
-[zerion] (https://zerion.io)
+[zerion](https://zerion.io)
 
-[nansen] (https://www.nansen.ai)
+[nansen](https://www.nansen.ai)
 
 # contracts / solidity
 
