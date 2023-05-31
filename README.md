@@ -27,5 +27,8 @@ remix
 
 # wallet tracking
 
-breadcrumbs
+[breadcrumbs](https://www.breadcrumbs.app)
 
+https://metasleuth.io
+
+https://watchers.pro/main
